@@ -1,0 +1,6 @@
+com\mycompany\inheritanceperson\Employee.class
+com\mycompany\inheritanceperson\Person.class
+com\mycompany\inheritanceperson\Manager.class
+com\mycompany\inheritanceperson\Student.class
+com\mycompany\inheritanceperson\BirthDate.class
+com\mycompany\inheritanceperson\InheritancePerson.class
