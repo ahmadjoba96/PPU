@@ -1,0 +1,37 @@
+-- Course Database Systems - PPU - Dr. Mahmoud Al-Saheb
+-- BY:A7mad_Joba
+-- Environment: Oracle Live SQL
+
+UPDATE EMP
+SET SAL = 1000
+WHERE ENAME = 'Ahmad';
+
+
+UPDATE EMP
+SET SAL = SAL * 1.10;
+
+
+UPDATE EMP
+SET COMM = 0
+WHERE COMM IS NULL;
+
+
+UPDATE EMP
+SET DEPTNO = 1
+WHERE ENAME = 'Aziz';
+
+
+DELETE FROM EMP
+WHERE ENAME = 'Obada';
+
+
+DELETE FROM EMP
+WHERE DEPTNO = 4;
+
+
+DELETE FROM EMP
+WHERE MGR IS NULL;
+
+
+DELETE FROM EMP
+WHERE SAL < 900;
