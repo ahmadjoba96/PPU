@@ -4,17 +4,17 @@ This My Repo contains my coursework and practice files from the Computer Science
 
 ## 📂 Contents
 
-- `Data-Structures` – C++ implementations of data structures.
-- `Database Systems` – SQL queries and database concepts.
-- `OOP` – Java projects and OOP concepts , Includes examples of inheritance, polymorphism, inner and anonymous classes.
+- Data-Structures – C++ implementations of data structures.
+- Database Systems – SQL queries and database concepts.
+- OOP – Java projects and OOP concepts , Includes examples of inheritance, polymorphism, inner and anonymous classes.
 
 ## 🛠 Tech Stack
 
 - C++, Java, SQL
 
-## 📌 Notes
+## 📌 Note
 
 This repo will be updated gradually as I add more materials from different subjects.
 
 ---
-🧠 Tags: `cpp`, `java`, `oop`, `database`, `mysql`, `algorithms`
+🏷️ Tags: `cpp`, `java`, `oop`, `database`, `mysql`, `algorithms`
