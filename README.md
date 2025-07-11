@@ -1,6 +1,6 @@
 # 🎓 PPU Coursework
 
-This My Repo contains my coursework and practice files from the Computer Science program at **PPU**.
+This My Repo contains my coursework and practice files from the Computer Science program at **palestine polytechnic university**.
 
 ## 📂 Contents
 
